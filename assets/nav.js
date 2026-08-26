@@ -1,6 +1,6 @@
 /* Боковая навигация. Меняешь здесь — меняется на всех страницах. */
 var PAGES = [
-  {f:"index.html",n:"01",t:"Первые 30 дней",todo:false},
+  {f:"index.html",n:"01",t:"Первые 7 дней",todo:false},
   {f:"pages/2-biznes.html",n:"02",t:"Бизнес и продукты",todo:false},
   {f:"pages/3-cikl.html",n:"03",t:"Годовой цикл",todo:false},
   {f:"pages/4-sistemy.html",n:"04",t:"Системы",todo:false},
